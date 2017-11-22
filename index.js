@@ -1,11 +1,8 @@
 function theBeatlesPlay(musicians, instruments) {
-  let i = [];
-for (i = 0; i<musicians.length; i++) {
-  return 
+  let musician = [];
+for (musician = 0; musician<musicians.length; musician++) {
+  return musician[];
 }
-
-
-
 
 
 }
